@@ -18,7 +18,7 @@
   * Maintains the general layout of the page, basic structure should be maintained and preserved
 * How many levels of headings are there in HTML
   * 6 levels of heading along with CSS style to make more
-* How are some uses for "<sup>" and "<sub>" elements
+* How are some uses for "sup" and "sub" elements
   * superscript and subscript are used for marking up dates and math equations
-* When using "<abbr> element, what attribute must be added?
-  * the "title" attribute must be used. <abbr title="hyper text markup language">
+* When using "abbr" element, what attribute must be added?
+  * the "title" attribute must be used. "abbr title="hyper text markup language"
