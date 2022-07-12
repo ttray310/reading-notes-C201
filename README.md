@@ -15,8 +15,8 @@ Please, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/t
 
 #### 201 Class Notes by Class numbers
 
-* [Class 01](class-01.md)
-* [Class 02](class-02.md)
+* [Class 01 - How the web works/ Intro to HTML/ Website basics/ JavaScript basics](class-01.md)
+* [Class 02 - More Intro to HTML/ CSS Structure/ JavaScript more info](class-02.md)
 * [Class 03](class-03.md)
 * [Class 04](class-04.md)
 * [Class 05](class-05.md)
