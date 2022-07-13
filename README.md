@@ -7,6 +7,14 @@ Please, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/t
 
 **Growth mindset** is the idea that I know that I am constantly growing and learning. *It is okay to fail*, but never okay to quit. Continue to improve daily and a month from now, you will be surprised.
 
+<!-- ### Various Notes for Markdown
+<!-- Good for commenting your Markdown AND blocking out Markdown that you don't want rendered. -->
+<!-- Markdown is useful for Styling Text:
+
+1. **Two asterisks make it Bold**  
+2. _One underscore is Italic_  
+3. **_Three asterisks are both Bold and Italic_** -->
+
 ### Reminders to stay in Growth Mindset
 
 * Nothing comes easy
@@ -16,8 +24,8 @@ Please, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/t
 #### 201 Class Notes by Class numbers
 
 * [Class 01 - How the web works/ Intro to HTML/ Website basics/ JavaScript basics](class-01.md)
-* [Class 02 - More Intro to HTML/ CSS Structure/ JavaScript more info](class-02.md)
-* [Class 03](class-03.md)
+* [Class 02 - More Intro to HTML/ CSS Structure/ JavaScript more](class-02.md)
+* [Class 03 - Learn HTML, CSS, JavaScript. Learn some...](class-03.md)
 * [Class 04](class-04.md)
 * [Class 05](class-05.md)
 * [Class 06](class-06.md)

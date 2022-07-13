@@ -2,16 +2,6 @@
 
 ## Read01
 
-<!-- ### Various Notes for Markdown -->
-
-<!-- Good for commenting your Markdown AND blocking out Markdown that you don't want rendered. -->
-
-<!-- Markdown is useful for Styling Text:
-
-1. **Two asterisks make it Bold**  
-2. _One underscore is Italic_  
-3. **_Three asterisks are both Bold and Italic_** -->
-
 ### How the web works/ Intro to HTML/ Website basics/ JavaScript basics
 
 **Poem on describe how HTTP sends data between computers**
@@ -21,7 +11,7 @@
     OK, please display my packages O Browser
 
 HTML, CSS, and JS files are “parsed” in the browser
-    -HTML 1st : <links> and <scripts>
+    -HTML 1st : "<"links> and "<"scripts>
     -CSS & JavaScript 2nd
     -generates DOM and CSSOM then does the JavaScript
 How to find images to add to a website?
@@ -37,14 +27,14 @@ What is an HTML Att?
     -Can be used to style
 Describe the Anatomy of an HTMl element
     -Element is made up for Opening/Closing Tags and Content
-What is the Difference between <article> and <section> element tags?
+What is the Difference between "<"article> and "<"section> element tags?
     -each can be used to nest with the other
     -section more for grouping together single part of the page
 What Elements does a “typical” website include?
     -All kinds…
 How does metadata influence Search Engine Optimization?
     -has potential to make page appear higher in search engine searches
-How is the <meta> HTML tag used when specifying metadata?
+How is the "<"meta> HTML tag used when specifying metadata?
     -adds keywords that are used to make site display correctly with searching
 
 What is the first step to designing a Website?
@@ -52,7 +42,7 @@ What is the first step to designing a Website?
 What is the most important question to answer when designing a Website?
     -What exactly do i want to accomplish
 
-Why should you use an <h1> element over a <span> element to display a top level heading?
+Why should you use an "<"h1> element over a "<"span> element to display a top level heading?
     -Easier and proper positioning allows of ease of changability
 What are the benefits of using semantic tags in our HTML?
     -correct semantic markup will benefit SEO, easy to code and manage
@@ -60,4 +50,4 @@ What are the benefits of using semantic tags in our HTML?
 Describe 2 things that require JavaScript in the Browser?
     -Create dynamically updating content, control multimedia, animate images
 How can you add JavaScript to an HTML document?
-    -with <script> and adding the page via <style>
+    -with "<"script> and adding the page via "<"style>
