@@ -8,7 +8,7 @@
     * grouping of variables and functions inside a tool which can be used, changed, referenced
 2. What are some advantages to creating object literals?
     * write out the object contents as you come to create it
-    * when you want to transfer a series of structured, related data itms in some manner
+    * when you want to transfer a series of structured, related data items in some manner
 3. How do objects differ from arrays?
     * sending single object is more efficient than sending several items individually
 4. Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.
@@ -36,5 +36,5 @@
 
 #### Links
 
-1. [*Understanding problem domain* is **hardest** part of prgramming.](http://simpleprogrammer.com/2013/07/15/understanding-the-problem-domain-is-the-hardest-part-of-programming)
+1. [*Understanding problem domain* is **hardest** part of programming.](http://simpleprogrammer.com/2013/07/15/understanding-the-problem-domain-is-the-hardest-part-of-programming)
 2. [Difference between *primitive values* and *object references* in JavaScript](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
