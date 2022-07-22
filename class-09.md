@@ -21,6 +21,4 @@
 3. Describe the event object. Why is the target within the event object useful?
 4. What is the difference between event bubbling and event capturing?
 
-## Bookmark and Review
-
-[HTML5 Input Types](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types), [Event Reference and listings](https://developer.mozilla.org/en-US/docs/Web/Events)
+## [HTML5 Input Types](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types), [Event Reference and listings](https://developer.mozilla.org/en-US/docs/Web/Events)
