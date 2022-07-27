@@ -1,4 +1,4 @@
-# Notes for Class 12
+# Notes for Class 13
 
 ## [Local Storage and How to Use It On Websites](https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/)
 
